@@ -5,7 +5,7 @@ This project demonstrates the deployment of a static website on an AWS EC2 insta
 The project follows best practices including SSH-based GitHub authentication and version control.
 
 ## Live Demo
-🌐 http://<your-ec2-public-ip>
+http://3.208.29.148
 
 ## Architecture
 - AWS EC2 (Amazon Linux)
